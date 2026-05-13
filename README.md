@@ -1,4 +1,4 @@
-# 🚀 React + Tailwind Landing Page Developer
+# 🚀 React + Tailwind Landing Page Development
 
 ## 📌 Overview
 
